@@ -1,8 +1,8 @@
 {
-  "name": "ultimate-flask-front-end",
-  "homepage": "https://github.com/realpython/ultimate-flask-front-end",
+  "name": "dynamic-list-using-flask-react",
+  "homepage": "https://github.com/hebe889900/Dynamic-list-using-flask-react",
   "authors": [
-    "Michael Herman michael@realpython.com"
+    "Zhong Yan jackyan63@gmail.com"
   ],
   "description": "",
   "main": "",
@@ -17,5 +17,7 @@
   "dependencies": {
     "bootstrap": "^3.3.6",
     "react": "^15.1.0"
-  }
+  },
+  "moduleType": [],
+  "private": true
 }

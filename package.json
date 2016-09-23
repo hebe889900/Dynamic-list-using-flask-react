@@ -1,21 +1,21 @@
 {
-  "name": "ultimate-flask-front-end",
+  "name": "dynamic-list-using-flask-react",
   "version": "1.0.0",
-  "description": "",
+  "description": "Be sure to check out the blog posts-",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/realpython/ultimate-flask-front-end.git"
+    "url": "git+https://github.com/hebe889900/Dynamic-list-using-flask-react.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/realpython/ultimate-flask-front-end/issues"
+    "url": "https://github.com/hebe889900/Dynamic-list-using-flask-react/issues"
   },
-  "homepage": "https://github.com/realpython/ultimate-flask-front-end#readme",
+  "homepage": "https://github.com/hebe889900/Dynamic-list-using-flask-react#readme",
   "devDependencies": {
     "bower": "^1.7.9",
     "del": "^2.2.0",
@@ -23,5 +23,6 @@
     "gulp-browser": "^2.1.4",
     "gulp-size": "^2.1.0",
     "reactify": "^1.1.1"
-  }
+  },
+  "dependencies": {}
 }
