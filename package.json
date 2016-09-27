@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/hebe889900/Dynamic-list-using-flask-react#readme",
   "devDependencies": {
+    "autoprefixer-loader": "^3.2.0",
     "bower": "^1.7.9",
     "del": "^2.2.0",
     "gulp": "^3.9.1",
